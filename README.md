@@ -11,6 +11,3 @@ Here we have project screenshot :
 portfolio preview
 ![screenshot](portfolio.png)
 
-Raw Image
-![screenshot](image.jpeg)
-

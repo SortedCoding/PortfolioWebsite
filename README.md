@@ -12,5 +12,5 @@ portfolio preview
 ![screenshot](portfolio.png)
 
 Raw Image
-![screenshot](image.png)
+![screenshot](image.jpge)
 
